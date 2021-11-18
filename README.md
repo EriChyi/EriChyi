@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EriChyi
 - 👀 I’m interested in Econometrics and DATA Analysis
-- 🌱 I’m currently learning Econometrics
+- 🌱 I’m currently learning Econometrics and Financial Economics
 - 💞️ I’m looking to collaborate on Python
 
 
